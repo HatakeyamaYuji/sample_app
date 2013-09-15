@@ -1,9 +1,9 @@
 SampleApp::Application.routes.draw do
   get "static_pages/home"
-
   get "static_pages/help"
+  get "static_pages/about"
 
-  # The priority is based upon order of creation:
+  # The priori/Users/solve/rails_projects/sample_app/app/controllers/static_pages_controller.rbty is based upon order of creation:
   # first created -> highest priority.
 
   # Sample of regular route:
